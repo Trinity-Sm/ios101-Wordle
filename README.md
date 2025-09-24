@@ -5,7 +5,7 @@ Submitted by: **Wordle Clone**
 
 **Wordle Clone** is an app that replicates the gameplay of the popular game Wordle where the player guesses a 5 letter word.
 
-Time spent: **2.5** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
@@ -23,8 +23,14 @@ The following **optional** features are implemented:
 The following **additional** features are implemented: N/A
 
 ## Video Walkthrough
-
-<div style="position: relative; padding-bottom: 214.28571428571428%; height: 0;"><iframe src="https://www.loom.com/embed/3161f1ad3c0845dc9f96e98a4b907403?sid=310492c4-1b7b-4aa5-88e3-9903ac4864f2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/3161f1ad3c0845dc9f96e98a4b907403">
+      <p>Simulator - iPhone 17 Pro - 23 September 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3161f1ad3c0845dc9f96e98a4b907403">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3161f1ad3c0845dc9f96e98a4b907403-b8868ae67df4f4a9-full-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
