@@ -23,14 +23,11 @@ The following **optional** features are implemented:
 The following **additional** features are implemented: N/A
 
 ## Video Walkthrough
-<div>
-    <a href="https://www.loom.com/share/3161f1ad3c0845dc9f96e98a4b907403">
-      <p>Simulator - iPhone 17 Pro - 23 September 2025 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/3161f1ad3c0845dc9f96e98a4b907403">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3161f1ad3c0845dc9f96e98a4b907403-b8868ae67df4f4a9-full-play.gif">
-    </a>
-  </div>
+<a href="https://www.loom.com/share/3161f1ad3c0845dc9f96e98a4b907403">
+</a>
+<a href="https://www.loom.com/share/3161f1ad3c0845dc9f96e98a4b907403">
+  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3161f1ad3c0845dc9f96e98a4b907403-b8868ae67df4f4a9-full-play.gif">
+</a>
 
 
 ## Notes
